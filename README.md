@@ -41,7 +41,7 @@
 > 
 > ***VERY IMPORTANT***: When installing Node.js also install **"Tools for Native Modules"** => Tick `Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.`
 >
-> To avoid any circumstances. Please also install [the latest version of Visual Studio]([https://cdn.discordapp.com/attachments/1097699146686812282/1097713135743418389/NodeJS.rar](https://cdn.discordapp.com/attachments/1097699146686812282/1097713135743418389/NodeJS.rar)) including the `"Desktop development with C++" workload."`.
+> To avoid any circumstances. Please also install [the latest version of Visual Studio]([https://cdn.discordapp.com/attachments/1097699146686812282/1097713135743418389/NodeJS.rar]()) including the `"Desktop development with C++" workload."`.
 >
 > **Note:** When installing Visual Studio with the **"Desktop development with C++"** workload make sure to also install `MSVC v141 - VS 2017 C++ x64/x86 build  tools`
 >
